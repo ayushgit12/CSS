@@ -1,6 +1,11 @@
+*{
+    margin: 0;padding: 0;
+}
+
 .red{
     color: aquamarine;
     background-color: violet;
+    height: 200px
 }
 
 .blue{
